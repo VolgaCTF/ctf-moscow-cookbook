@@ -1,7 +1,5 @@
 id = 'ctf-moscow'
 
-default[id]['user'] = nil
-
 default[id]['fqdn'] = nil
 default[id]['github_repository'] = 'VolgaCTF/ctf.moscow'
 default[id]['revision'] = 'master'
